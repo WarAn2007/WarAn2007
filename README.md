@@ -37,8 +37,6 @@
 # 💫 About Me:
 I'm a student of INHA University in Tashkent, a sophomore. Expected Graduation 2029.<br>- - - - - - - - - - - - - - - - - - - - - - - - -<br>🔭 I’m final destination is to create a fully robotic arms of doctor Otto Octavius<br>- - - - - - - - - - - - - - - - - - - - - - - - -<br>🌱 I’m currently learning :<br>                                              ---> microelectronics with Arduino and ESP32 S3<br>                                              ---> Python mastering for AI and ML<br>                                              ---> C++ for Robotics and Microelectronics<br>                                              ---> Vibe Coding for task automation without loss of quality<br>
 
-Contact me by mail: anwarmaker1@gmail.com
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/anvar-ibragimov-3a2719400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg0LM0QAWSJ6hKAFgLyph1Q%3D%3D)
